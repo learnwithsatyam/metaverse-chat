@@ -26,7 +26,7 @@ function Header() {
                     />
                 </div>
                 {/** welcome message */}
-                <h1 className="text-3xl"> Welcome To Satyam's Web3 Chat Dapp</h1>
+                <h1 className="text-3xl"> Welcome To Satyam&#39;s Web3 Chat Dapp</h1>
                 <h2 className="text-5xl font-bold truncate">
                     {user.getUsername()}
                 </h2>
