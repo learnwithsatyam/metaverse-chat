@@ -9,7 +9,7 @@ function Login() {
             {/** your logo */}
             <Image 
                 className="object-cover rounded-full"
-                src="https://links.papareact.com/3pi"
+                src="/my_logo_photo.png"
                 height={200}
                 width={200}
             />
@@ -19,7 +19,7 @@ function Login() {
         <div className="w-full h-screen">
             {/** Login Form */}
             <Image 
-                src = "/my_logo_photo.png"
+                src = "https://links.papareact.com/55n"
                 layout="fill"
                 objectFit="cover"
             />
