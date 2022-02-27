@@ -15,6 +15,7 @@ function Login() {
             />
             {/** login button */}
             <button onClick={authenticate} className="bg-yellow-500 rounded-lg p-5 font-bold animate-pulse">Login To Metaverse</button>
+            <p className="text-white bg-black rounded-full border-white border-2 p-4"> You will NEED any crypto wallet to login. Metamask is preffered. </p>
         </div>
         <div className="w-full h-screen">
             {/** Login Form */}
