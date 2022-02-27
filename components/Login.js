@@ -19,7 +19,7 @@ function Login() {
         <div className="w-full h-screen">
             {/** Login Form */}
             <Image 
-                src = "https://links.papareact.com/55n"
+                src = "/my_logo_photo.png"
                 layout="fill"
                 objectFit="cover"
             />
